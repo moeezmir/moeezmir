@@ -1,6 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 <h1 align="center<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</a>>Hi 👋, I'm Mir Moeez</h1><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>
+</a>Hi 👋, I'm Mir Moeez</h1><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 <h3 align="center">A passionate frontend developer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeezmir&label=Profile%20views&color=0e75b6&style=flat" alt="moeezmir" /> </p>
