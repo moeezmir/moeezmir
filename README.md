@@ -17,7 +17,7 @@
 </a>
 
 <!-- X (Twitter) -->
-<a href="https://www.linkedin.com/in/mir-moeez-860b5b334" target="_blank">
+<a href="https://x.com/thypholosion" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
 </a>
 
