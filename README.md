@@ -5,28 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeezmir" alt="moeezmir" /></a> </p>
 
+<!-- banner link -->
 <!-- Facebook -->
-<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.facebook.com/moeezmirI" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
 </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.instagram.com/moeez_mir_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </a>
 
 <!-- X (Twitter) -->
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/mir-moeez-860b5b334" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/mir-moeez-860b5b334" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
 
 <!-- Gmail -->
-<a href="mailto:yourname@gmail.com" target="_blank">
+<a href="mailto:moeezmir2019@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
 
