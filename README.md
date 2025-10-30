@@ -5,7 +5,41 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeezmir" alt="moeezmir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thypholosion" target="blank"><img src="https://img.shields.io/twitter/follow/thypholosion?logo=twitter&style=for-the-badge" alt="thypholosion" /></a> </p>
+<!-- Facebook -->
+<p align="left">
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+</p>
+
+<!-- Instagram -->
+<p align="left">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+</p>
+
+<!-- X (formerly Twitter) -->
+<p align="left">
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+  </a>
+</p>
+
+<!-- LinkedIn -->
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Gmail -->
+<p align="left">
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://moeezmir.netlify.app/](https://moeezmir.netlify.app/)
 
