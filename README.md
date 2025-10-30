@@ -1,4 +1,4 @@
-<img width="1341" height="607" alt="image" src="https://github.com/user-attachments/assets/bb397a85-adbd-445d-b7bd-07fff7a675e0" /><h1 align="center">Hi 👋, I'm Mir Moeez</h1>
+<h1 align="center">Hi 👋, I'm Mir Moeez</h1>
 <h3 align="center">A passionate frontend developer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeezmir&label=Profile%20views&color=0e75b6&style=flat" alt="moeezmir" /> </p>
