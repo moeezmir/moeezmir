@@ -3,13 +3,11 @@
   Hi 👋, I'm Mir Moeez
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </h1>
-
 <h3 align="center">A passionate frontend developer & Programmer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeezmir&label=Profile%20views&color=0e75b6&style=flat" alt="moeezmir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeezmir" alt="moeezmir" /></a> </p>
-
 <!-- banner link -->
 <!-- Facebook -->
 <a href="https://www.facebook.com/moeezmirI" target="_blank">
@@ -69,5 +67,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeezmir&" alt="moeezmir" /></p>
 
-
-
+<!--Hello in Different Languages-->
+<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="height:1em; vertical-align:middle;" alt="Inline Icon GIF" />
