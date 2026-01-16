@@ -44,7 +44,7 @@
 - 📄 Know about my experiences [https://moeezmir.netlify.app/](https://moeezmir.netlify.app/)
 
 - ⚡ Fun fact **I once built a full website just to prove a point in a classroom debate—and it worked! Turns out, code speaks louder than words.**
-<img src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF" height="150" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" alt="Funny GIF" height="150" align="right" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/thypholosion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thypholosion" height="30" width="40" /></a>
